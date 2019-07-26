@@ -1,0 +1,40 @@
+#Matplotlib Config file
+
+#backend       : TKAgg
+
+#Fonts
+
+text.usetex   	: True
+font.family   	: serif
+font.size	: 18
+
+#Lines
+
+lines.linewidth : 1.0
+
+
+#Hatch
+
+hatch.color : DimGray
+
+
+#Ticks
+
+xtick.top:	True
+xtick.direction: in
+
+xtick.major.size: 7
+xtick.major.width: 1
+xtick.minor.size: 3
+xtick.minor.width: 1
+
+
+ytick.right: True
+ytick.direction: in
+
+ytick.major.size: 7
+ytick.major.width: 1
+ytick.minor.size: 3
+ytick.minor.width: 1
+
+axes.axisbelow : False
